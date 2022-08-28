@@ -2,8 +2,8 @@
 
 ## The company
 
-* [Historical Context](README.md)
-* [🔰 In-Dex Sale](<README (1).md>)
+* [🔰 Overview](README.md)
+* [♻ Protocol DeFi](the-company/protocol-defi.md)
 
 ## ECOSSYSTEM
 
