@@ -2,7 +2,8 @@
 
 ## The company
 
-* [🔰 In-Dex Sale](README.md)
+* [Historical Context](README.md)
+* [🔰 In-Dex Sale](<README (1).md>)
 
 ## ECOSSYSTEM
 
