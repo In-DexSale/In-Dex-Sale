@@ -31,3 +31,35 @@ Decentralized listings - In-Dex Sale aims to become fully decentralized, giving 
 Listing cost - In-Dex Sale will charge a listing cost 0.5 bnb or 2% of all pre-sale after the sale.
 
 Compliant with KYC regulations.
+
+{% content-ref url="ecossystem/swap-exchange.md" %}
+[swap-exchange.md](ecossystem/swap-exchange.md)
+{% endcontent-ref %}
+
+{% content-ref url="ecossystem/nfts.md" %}
+[nfts.md](ecossystem/nfts.md)
+{% endcontent-ref %}
+
+{% content-ref url="ecossystem/pools.md" %}
+[pools.md](ecossystem/pools.md)
+{% endcontent-ref %}
+
+{% content-ref url="ecossystem/farms.md" %}
+[farms.md](ecossystem/farms.md)
+{% endcontent-ref %}
+
+{% content-ref url="ecossystem/lending.md" %}
+[lending.md](ecossystem/lending.md)
+{% endcontent-ref %}
+
+{% content-ref url="ecossystem/bridge.md" %}
+[bridge.md](ecossystem/bridge.md)
+{% endcontent-ref %}
+
+{% content-ref url="ecossystem/stablecoin.md" %}
+[stablecoin.md](ecossystem/stablecoin.md)
+{% endcontent-ref %}
+
+{% content-ref url="ecossystem/governance-dao.md" %}
+[governance-dao.md](ecossystem/governance-dao.md)
+{% endcontent-ref %}
