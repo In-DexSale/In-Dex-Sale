@@ -31,3 +31,4 @@
 * [▪ Reddit](https://www.reddit.com/user/InDexSale)
 * [▪ Instagram](https://www.instagram.com/index\_sale/)
 * [▪ Facebook](https://www.facebook.com/indexsale)
+* [▪ Discord](https://discord.gg/nTv8HD6M6m)
