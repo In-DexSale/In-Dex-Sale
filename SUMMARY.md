@@ -22,6 +22,16 @@
 * [🚀 Roadmap](tokenomics/roadmap.md)
 * [♻ Team](tokenomics/team.md)
 
+***
+
+* [🟣 Fairlaunch PinkSale](https://www.pinksale.finance/?chain=BSC)
+
+## SAFU / KYC / AUDIT
+
+* [🕵♀ SAFU Certificate](safu-kyc-audit/safu-certificate.md)
+* [🕵♀ KYC Certificate](safu-kyc-audit/kyc-certificate.md)
+* [🕵♀ AUDIT Certificate](safu-kyc-audit/audit-certificate.md)
+
 ## Social Media
 
 * [▪ In-Dex Sale](https://asdsadasdsada.vercel.app/)

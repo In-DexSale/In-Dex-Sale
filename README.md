@@ -32,6 +32,8 @@ Listing cost - In-Dex Sale will charge a listing cost 0.5 bnb or 2% of all pre-s
 
 Compliant with KYC regulations.
 
+## Ecossystem
+
 {% content-ref url="ecossystem/swap-exchange.md" %}
 [swap-exchange.md](ecossystem/swap-exchange.md)
 {% endcontent-ref %}
@@ -63,3 +65,43 @@ Compliant with KYC regulations.
 {% content-ref url="ecossystem/governance-dao.md" %}
 [governance-dao.md](ecossystem/governance-dao.md)
 {% endcontent-ref %}
+
+## Tokenomics
+
+{% content-ref url="tokenomics/tokenomics.md" %}
+[tokenomics.md](tokenomics/tokenomics.md)
+{% endcontent-ref %}
+
+{% content-ref url="tokenomics/problems.md" %}
+[problems.md](tokenomics/problems.md)
+{% endcontent-ref %}
+
+{% content-ref url="tokenomics/roadmap.md" %}
+[roadmap.md](tokenomics/roadmap.md)
+{% endcontent-ref %}
+
+{% content-ref url="tokenomics/team.md" %}
+[team.md](tokenomics/team.md)
+{% endcontent-ref %}
+
+## SAFU / KYC / AUDIT&#x20;
+
+{% content-ref url="safu-kyc-audit/safu-certificate.md" %}
+[safu-certificate.md](safu-kyc-audit/safu-certificate.md)
+{% endcontent-ref %}
+
+{% content-ref url="safu-kyc-audit/kyc-certificate.md" %}
+[kyc-certificate.md](safu-kyc-audit/kyc-certificate.md)
+{% endcontent-ref %}
+
+{% content-ref url="safu-kyc-audit/audit-certificate.md" %}
+[audit-certificate.md](safu-kyc-audit/audit-certificate.md)
+{% endcontent-ref %}
+
+## Social Media
+
+{% embed url="https://linktr.ee/in_dexsale" %}
+
+## Fairlaunch PinkSale
+
+{% embed url="https://www.pinksale.finance/?chain=BSC" %}
