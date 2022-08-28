@@ -2,7 +2,8 @@
 
 ## The company
 
-* [🔰 Overview](README.md)
+* [✅ In-Dex Sale](README.md)
+* [🔰 Overview](<README (1).md>)
 * [♻ Protocol DeFi](the-company/protocol-defi.md)
 
 ## ECOSSYSTEM
@@ -25,7 +26,7 @@
 
 ***
 
-* [🟣 Fairlaunch PinkSale](https://www.pinksale.finance/?chain=BSC)
+* [🛍 Fairlaunch PinkSale](https://www.pinksale.finance/?chain=BSC)
 
 ## SAFU / KYC / AUDIT
 
