@@ -11,7 +11,9 @@
 * [About](about-idxs/about.md)
 * [0⃣ No fees](about-idxs/no-fees.md)
 * [🛡 Safu Contract](about-idxs/safu-contract.md)
-* [Why Static?](about-idxs/why-static.md)
+* [♾ Why Static?](about-idxs/why-static.md)
+* [💥 Influencers backed](about-idxs/influencers-backed.md)
+* [Manual Burns](about-idxs/manual-burns.md)
 
 ## ECOSSYSTEM
 
