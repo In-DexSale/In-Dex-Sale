@@ -6,17 +6,17 @@ coverY: 0
 
 ## Important Factors
 
-Bitcoin started the decentralized revolution by providing people with a digital store of value, with a fixed supply and no sovereign. But a robust financial system demands more than a single asset. Users need services and products that allow them to invest their capital. This is where DeFi comes in. DeFi represent the infrastructure, such as lending platforms and brokerages that want to innovate on traditional financial systems. With DeFi, limited financial systems can be transformed into an open financial economy based on open source protocols that are more accessible, with few intermediaries, and more transparent.\
+:clap:Bitcoin started the decentralized revolution by providing people with a digital store of value, with a fixed supply and no sovereign. But a robust financial system demands more than a single asset. Users need services and products that allow them to invest their capital. This is where DeFi comes in. DeFi represent the infrastructure, such as lending platforms and brokerages that want to innovate on traditional financial systems. With DeFi, limited financial systems can be transformed into an open financial economy based on open source protocols that are more accessible, with few intermediaries, and more transparent.\
 \
-DeFi applications are useful because they allow anyone in the world to access financial services provided on public blockchains, which eliminates intermediaries and high barriers to access. Approximately 1.7 billion people are unbanked while ⅔ of those people, without bank accounts, own a smartphone.\
+:clap:DeFi applications are useful because they allow anyone in the world to access financial services provided on public blockchains, which eliminates intermediaries and high barriers to access. Approximately 1.7 billion people are unbanked while ⅔ of those people, without bank accounts, own a smartphone.\
 \
-DeFi have the ability to unlock necessary financial services, including the ability to borrow funds, obtain loans, deposit funds into a savings account, or trade complex financial products - all without asking someone's permission or opening an account.
+:clap:DeFi have the ability to unlock necessary financial services, including the ability to borrow funds, obtain loans, deposit funds into a savings account, or trade complex financial products - all without asking someone's permission or opening an account.
 
 ## The Big Opportunity - IDXS
 
-Given this increased demand for the concept of decentralized finance, we at In-Dex Sale have developed a launch platform, where we prioritize easy, fast, and secure fundraising opportunities with strong community support.Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opportunity.
+:clap:Given this increased demand for the concept of decentralized finance, we at In-Dex Sale have developed a launch platform, where we prioritize easy, fast, and secure fundraising opportunities with strong community support.Liquidity Provider Safe, fast, low transaction fee and guarantee purchase opportunity.
 
-We at In-Dex Sale are one of the first multi-chain release platforms, with our IDXS token,wich as the more important of launchpad which will be required to governance, and allocations in projects swap fee, farms, pools, brigde multichain fees, card NFt game.
+:clap:We at In-Dex Sale are one of the first multi-chain release platforms, with our IDXS token,wich as the more important of launchpad which will be required to governance, and allocations in projects swap fee, farms, pools, brigde multichain fees, card NFt game.
 
 ## Ecossystem
 
