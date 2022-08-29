@@ -2,9 +2,9 @@
 
 ## The company
 
-* [✅ In-Dex Sale](README.md)
-* [🔰 Overview](<README (1).md>)
+* [🔰 In-Dex Sale](README.md)
 * [♻ Protocol DeFi](the-company/protocol-defi.md)
+* [Page 1](the-company/page-1.md)
 
 ## ECOSSYSTEM
 

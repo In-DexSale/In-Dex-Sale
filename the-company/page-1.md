@@ -1,8 +1,4 @@
----
-coverY: 0
----
-
-# 🔰 Overview
+# Page 1
 
 ## What is a In-Dex Sale!
 
@@ -29,77 +25,3 @@ Decentralized listings - In-Dex Sale aims to become fully decentralized, giving 
 Listing cost - In-Dex Sale will charge a listing cost 0.5 bnb or 2% of all pre-sale after the sale.
 
 Compliant with KYC regulations.
-
-## Ecossystem
-
-{% content-ref url="ecossystem/swap-exchange.md" %}
-[swap-exchange.md](ecossystem/swap-exchange.md)
-{% endcontent-ref %}
-
-{% content-ref url="ecossystem/nfts.md" %}
-[nfts.md](ecossystem/nfts.md)
-{% endcontent-ref %}
-
-{% content-ref url="ecossystem/pools.md" %}
-[pools.md](ecossystem/pools.md)
-{% endcontent-ref %}
-
-{% content-ref url="ecossystem/farms.md" %}
-[farms.md](ecossystem/farms.md)
-{% endcontent-ref %}
-
-{% content-ref url="ecossystem/lending.md" %}
-[lending.md](ecossystem/lending.md)
-{% endcontent-ref %}
-
-{% content-ref url="ecossystem/bridge.md" %}
-[bridge.md](ecossystem/bridge.md)
-{% endcontent-ref %}
-
-{% content-ref url="ecossystem/stablecoin.md" %}
-[stablecoin.md](ecossystem/stablecoin.md)
-{% endcontent-ref %}
-
-{% content-ref url="ecossystem/governance-dao.md" %}
-[governance-dao.md](ecossystem/governance-dao.md)
-{% endcontent-ref %}
-
-## Tokenomics
-
-{% content-ref url="tokenomics/tokenomics.md" %}
-[tokenomics.md](tokenomics/tokenomics.md)
-{% endcontent-ref %}
-
-{% content-ref url="tokenomics/problems.md" %}
-[problems.md](tokenomics/problems.md)
-{% endcontent-ref %}
-
-{% content-ref url="tokenomics/roadmap.md" %}
-[roadmap.md](tokenomics/roadmap.md)
-{% endcontent-ref %}
-
-{% content-ref url="tokenomics/team.md" %}
-[team.md](tokenomics/team.md)
-{% endcontent-ref %}
-
-## SAFU / KYC / AUDIT&#x20;
-
-{% content-ref url="safu-kyc-audit/safu-certificate.md" %}
-[safu-certificate.md](safu-kyc-audit/safu-certificate.md)
-{% endcontent-ref %}
-
-{% content-ref url="safu-kyc-audit/kyc-certificate.md" %}
-[kyc-certificate.md](safu-kyc-audit/kyc-certificate.md)
-{% endcontent-ref %}
-
-{% content-ref url="safu-kyc-audit/audit-certificate.md" %}
-[audit-certificate.md](safu-kyc-audit/audit-certificate.md)
-{% endcontent-ref %}
-
-## Social Media
-
-{% embed url="https://linktr.ee/in_dexsale" %}
-
-## Fairlaunch PinkSale
-
-{% embed url="https://www.pinksale.finance/?chain=BSC" %}
