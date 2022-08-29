@@ -4,21 +4,27 @@ coverY: 0
 
 # ✅ Tokenomics
 
+## **Token Allocation**
 
+| Descrition     |              |
+| -------------- | ------------ |
+| **Presale**    | **39.49%**   |
+| **Liquidity**  | **22.5093%** |
+|                |              |
 
-**Total supply:** 1.000.000.000 \
+**Presale -       39.49%** \
+**Liquidity -     22.5093%** \
+**10% - Reserve**\
+**20% - Team**\
+**22% - Pre Sale**\
+**60% - Public Sale**
 
+## **More Token info**
 
-**Initial circulation supply** will be 1.000.000.000
+* Hit Maximum Value to Token
+* Build ecossystem based in partnerships to token&#x20;
+* Staking to earn more In-Dex Sale token&#x20;
+* Staking to participate in lanchpad
+* Burning to mint a Stablecoin
 
-**Seed sale price:** $0.02 USD\
-\
-**Private sale price:** $0.0025 USD
-
-**Public sale price:** $0.01 USD
-
-**Pancake listing price:** $0.03 USD
-
-**Total amount raised:** 500000 USD
-
-**Total sold:** 30000000 (3% of the total supply)
+****
