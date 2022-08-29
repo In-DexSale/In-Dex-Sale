@@ -18,6 +18,12 @@ coverY: 0
 
 :clap:We at In-Dex Sale are one of the first multi-chain release platforms, with our IDXS token,wich as the more important of launchpad which will be required to governance, and allocations in projects swap fee, farms, pools, brigde multichain fees, card NFt game.
 
+## About IDXS
+
+{% content-ref url="about-idxs/about.md" %}
+[about.md](about-idxs/about.md)
+{% endcontent-ref %}
+
 ## Ecossystem
 
 {% content-ref url="ecossystem/swap-exchange.md" %}

@@ -4,16 +4,17 @@
 
 * [🔰 In-Dex Sale](README.md)
 * [♻ Protocol DeFi](the-company/protocol-defi.md)
-* [📊 Launchpads](the-company/page-1.md)
+* [🖇 Launchpads](the-company/page-1.md)
 
 ## About IDXS
 
-* [About](about-idxs/about.md)
+* [💎 About](about-idxs/about.md)
 * [0⃣ No fees](about-idxs/no-fees.md)
 * [🛡 Safu Contract](about-idxs/safu-contract.md)
-* [♾ Why Static?](about-idxs/why-static.md)
-* [💥 Influencers backed](about-idxs/influencers-backed.md)
-* [Manual Burns](about-idxs/manual-burns.md)
+* [📈 Why Static?](about-idxs/why-static.md)
+* [📊 Influencers backed](about-idxs/influencers-backed.md)
+* [🔎 Manual Burns](about-idxs/manual-burns.md)
+* [🧮 In-Dex Sale Protocol](about-idxs/in-dex-sale-protocol.md)
 
 ## ECOSSYSTEM
 
