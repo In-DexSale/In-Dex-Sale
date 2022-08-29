@@ -1,4 +1,8 @@
-# Page 1
+---
+coverY: 0
+---
+
+# 📊 Launchpads
 
 ## About Launchpads!
 
