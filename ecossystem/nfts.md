@@ -2,13 +2,13 @@
 coverY: 0
 ---
 
-# ✳ NFTs
+# 🫂 NFTs
 
-In-Dex Sale is building a new NFT Game and introducing Crypto NFTs as a new feature. Users can cast NFTs with unique characteristics and different rarities (by depositing IDXS tokens) then stake i
+:clap:In-Dex Sale is building a new NFT Game and introducing Crypto NFTs as a new feature. Users can cast NFTs with unique characteristics and different rarities (by depositing IDXS tokens) then stake i
 
 ## **What is NFT staking?** <a href="#what-is-nft-staking" id="what-is-nft-staking"></a>
 
-In a regular staking pool, users deposit tokens into a contract and are rewarded with the same or different token in the form of rewards.**An NFT staking pool is different** and is a bit similar to the Farming Pools because as a user, you:
+:clap:In a regular staking pool, users deposit tokens into a contract and are rewarded with the same or different token in the form of rewards.**An NFT staking pool is different** and is a bit similar to the Farming Pools because as a user, you:
 
 1. 1.Deposit IDXS tokens into a contract.
 2. 2.Get rewarded with NFT cards with different rarities and characteristics (The better your NFT is, the higher your mining power will be)

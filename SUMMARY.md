@@ -18,18 +18,18 @@
 
 ## ECOSSYSTEM
 
-* [❇ Swap Exchange](ecossystem/swap-exchange.md)
-* [✳ NFTs](ecossystem/nfts.md)
-* [❇ Pools](ecossystem/pools.md)
-* [✳ Farms](ecossystem/farms.md)
-* [❇ Lending](ecossystem/lending.md)
-* [✳ Bridge](ecossystem/bridge.md)
-* [❇ Stablecoin](ecossystem/stablecoin.md)
-* [✳ Governance DAO](ecossystem/governance-dao.md)
+* [🔥 Swap Exchange](ecossystem/swap-exchange.md)
+* [🫂 NFTs](ecossystem/nfts.md)
+* [🍃 Pools](ecossystem/pools.md)
+* [✨ Farms](ecossystem/farms.md)
+* [🌪 Lending](ecossystem/lending.md)
+* [📌 Bridge](ecossystem/bridge.md)
+* [🎗 Stablecoin](ecossystem/stablecoin.md)
+* [☀ Governance DAO](ecossystem/governance-dao.md)
 
 ## Tokenomics
 
-* [✅ Tokenomics](tokenomics/tokenomics.md)
+* [💰 Token IDXS](tokenomics/token-idxs.md)
 * [⚠ Problems](tokenomics/problems.md)
 * [🚀 Roadmap](tokenomics/roadmap.md)
 * [♻ Team](tokenomics/team.md)

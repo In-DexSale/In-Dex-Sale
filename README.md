@@ -24,6 +24,30 @@ coverY: 0
 [about.md](about-idxs/about.md)
 {% endcontent-ref %}
 
+{% content-ref url="about-idxs/no-fees.md" %}
+[no-fees.md](about-idxs/no-fees.md)
+{% endcontent-ref %}
+
+{% content-ref url="about-idxs/safu-contract.md" %}
+[safu-contract.md](about-idxs/safu-contract.md)
+{% endcontent-ref %}
+
+{% content-ref url="about-idxs/why-static.md" %}
+[why-static.md](about-idxs/why-static.md)
+{% endcontent-ref %}
+
+{% content-ref url="about-idxs/influencers-backed.md" %}
+[influencers-backed.md](about-idxs/influencers-backed.md)
+{% endcontent-ref %}
+
+{% content-ref url="about-idxs/manual-burns.md" %}
+[manual-burns.md](about-idxs/manual-burns.md)
+{% endcontent-ref %}
+
+{% content-ref url="about-idxs/in-dex-sale-protocol.md" %}
+[in-dex-sale-protocol.md](about-idxs/in-dex-sale-protocol.md)
+{% endcontent-ref %}
+
 ## Ecossystem
 
 {% content-ref url="ecossystem/swap-exchange.md" %}
@@ -60,8 +84,8 @@ coverY: 0
 
 ## Tokenomics
 
-{% content-ref url="tokenomics/tokenomics.md" %}
-[tokenomics.md](tokenomics/tokenomics.md)
+{% content-ref url="tokenomics/token-idxs.md" %}
+[token-idxs.md](tokenomics/token-idxs.md)
 {% endcontent-ref %}
 
 {% content-ref url="tokenomics/problems.md" %}
