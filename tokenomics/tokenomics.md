@@ -6,11 +6,12 @@ coverY: 0
 
 ## **Token Allocation**
 
-| Descrition     |              |
-| -------------- | ------------ |
-| **Presale**    | **39.49%**   |
-| **Liquidity**  | **22.5093%** |
-|                |              |
+| Descrition              |              |
+| ----------------------- | ------------ |
+| **Presale**             | **39.49%**   |
+| **Liquidity**           | **22.5093%** |
+| Platform Auto Statking  | 10%          |
+|                         |              |
 
 **Presale -       39.49%** \
 **Liquidity -     22.5093%** \
