@@ -2,7 +2,7 @@
 coverY: 0
 ---
 
-# 🖇 Launchpads
+# 📊 Launchpads
 
 ## About Launchpads!
 
