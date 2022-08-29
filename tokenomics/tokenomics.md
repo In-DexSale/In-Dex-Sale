@@ -15,8 +15,12 @@ coverY: 0
 | **Team Vesting**             | **2%**       |
 | **Company / Rewards**        | **20%**      |
 | **Private Sale**             | **3%**       |
+| **Aidrop**                   | **1%**       |
+| **Unlocked**                 | **0.00007%** |
 
-****
+:thumbsup:We chose pinksale because it is the largest decentralized platform in the world and has strict KYC, SAFU and Audit procedures. Moreover, with pinksale we will be able to reach a huge range of investors.
+
+<figure><img src="../.gitbook/assets/tokenomics.jfif" alt=""><figcaption></figcaption></figure>
 
 ## **More Token info**
 
