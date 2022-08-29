@@ -4,7 +4,7 @@ coverY: 0
 
 # ♻ Protocol DeFi
 
-:clap:For a long time the crypto-active segment was seen as an underworld linked to illicit activities, and financial institutions did not talk about it with customers. The demand for BTC and altcoins, however, was so great that banks could no longer turn a blind eye to this growing market. Since 2021, banks have been offering products with exposure to cryptocurrencies, such as investment funds and ETFs.With this, the first steps towards a rapprochement with traditional financial institutions, was taken with a DeFi protocol, where it allows investors to get to know your clients, features that escape the "free" and almost anonymous nature of decentralized finance
+For a long time the crypto-active segment was seen as an underworld linked to illicit activities, and financial institutions did not talk about it with customers. The demand for BTC and altcoins, however, was so great that banks could no longer turn a blind eye to this growing market. Since 2021, banks have been offering products with exposure to cryptocurrencies, such as investment funds and ETFs.With this, the first steps towards a rapprochement with traditional financial institutions, was taken with a DeFi protocol, where it allows investors to get to know your clients, features that escape the "free" and almost anonymous nature of decentralized finance
 
 There are several ways to invest in DeFi. The main ones are as follows:
 
@@ -12,7 +12,7 @@ There are several ways to invest in DeFi. The main ones are as follows:
 * **Investment Funds:** There are investment houses with partial and full exposure to protocols in the Defi concept, where they are invested through products in Defi resources.
 * **Loans and pools:** Another way to invest is to hold cryptocurrencies in pools (smart contract in which users can leave their tokens to generate liquidity) of DeFi platforms or to lend the cryptos to other users, earning interest on it.
 
-:clap:Advantages of DeFi DeFi protocols offer some advantages when compared to traditional financial services.
+Advantages of DeFi DeFi protocols offer some advantages when compared to traditional financial services.
 
 * **Costs** - The fees charged for DeFi lending applications are often cheaper than those charged by banks or other institutions.
 * **Borderless** - Because the applications are decentralized and not controlled by governments and banks, anyone can access the services regardless of where they are.

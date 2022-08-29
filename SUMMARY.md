@@ -36,7 +36,7 @@
 
 ## Social Media
 
-* [▪ In-Dex Sale](https://asdsadasdsada.vercel.app/)
+* [▪ In-Dex Sale](https://indexsale.finance/)
 * [▪ Twitter](https://twitter.com/In\_Dex\_Sale)
 * [▪ Telegram](https://t.me/InDexSaleGlobal)
 * [▪ Medium](https://medium.com/@in-dexsale)

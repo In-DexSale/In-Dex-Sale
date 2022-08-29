@@ -6,7 +6,7 @@ coverY: 0
 
 ## About Launchpads!
 
-:clap:With the rise as decentralized finance (DeFi), we have also seen a significant rise in new projects looking to launch blockchain-powered products and services. Through launchpads, the blockchain community is able to discover new crypto projects in their early-stages and projects are able to onboard a significant community to support and promote their new venture through an IDO, or initial decentralized offering.
+With the rise as decentralized finance (DeFi), we have also seen a significant rise in new projects looking to launch blockchain-powered products and services. Through launchpads, the blockchain community is able to discover new crypto projects in their early-stages and projects are able to onboard a significant community to support and promote their new venture through an IDO, or initial decentralized offering.
 
 **Introducing In-Dex Sale:**
 
