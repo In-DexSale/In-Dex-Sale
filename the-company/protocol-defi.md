@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/b0a550a0-5c28-4919-9036-408fb7701384.jfif
 coverY: 0
 ---
 
@@ -12,7 +13,7 @@ There are several ways to invest in DeFi. The main ones are as follows:
 * **Investment Funds:** There are investment houses with partial and full exposure to protocols in the Defi concept, where they are invested through products in Defi resources.
 * **Loans and pools:** Another way to invest is to hold cryptocurrencies in pools (smart contract in which users can leave their tokens to generate liquidity) of DeFi platforms or to lend the cryptos to other users, earning interest on it.
 
-:clap:Advantages of DeFi DeFi protocols offer some advantages when compared to traditional financial services.
+:clap:Advantages of DeFi protocols offer some advantages when compared to traditional financial services.
 
 * **Costs** - The fees charged for DeFi lending applications are often cheaper than those charged by banks or other institutions.
 * **Borderless** - Because the applications are decentralized and not controlled by governments and banks, anyone can access the services regardless of where they are.

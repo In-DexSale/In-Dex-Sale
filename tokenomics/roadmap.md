@@ -1,10 +1,11 @@
 ---
+cover: ../.gitbook/assets/b0a550a0-5c28-4919-9036-408fb7701384.jfif
 coverY: 0
 ---
 
 # 🚀 Roadmap
 
-**Q2 2022**
+**Q3 2022**
 
 * Token Promotion,&#x20;
 * Pre Sale, &#x20;

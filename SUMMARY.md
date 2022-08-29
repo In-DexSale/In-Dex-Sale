@@ -30,7 +30,6 @@
 ## Tokenomics
 
 * [💰 Token IDXS](tokenomics/tokenomics.md)
-* [⚠ Problems](tokenomics/problems.md)
 * [🚀 Roadmap](tokenomics/roadmap.md)
 * [♻ Team](tokenomics/team.md)
 
