@@ -6,19 +6,16 @@ coverY: 0
 
 ## **Token Allocation**
 
-| Descrition              |              |
-| ----------------------- | ------------ |
-| **Presale**             | **39.49%**   |
-| **Liquidity**           | **22.5093%** |
-| Platform Auto Statking  | 10%          |
-|                         |              |
+| Descrition                   |              |
+| ---------------------------- | ------------ |
+| **Presale**                  | **39.49%**   |
+| **Liquidity**                | **22.5093%** |
+| **Platform Auto Statking**   | **10%**      |
+| **Partnerships / Giveaways** | **2%**       |
+| **Team Vesting**             | **2%**       |
+| **Company / Rewards**        | **20%**      |
 
-**Presale -       39.49%** \
-**Liquidity -     22.5093%** \
-**10% - Reserve**\
-**20% - Team**\
-**22% - Pre Sale**\
-**60% - Public Sale**
+****
 
 ## **More Token info**
 
