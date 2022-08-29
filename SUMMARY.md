@@ -4,7 +4,7 @@
 
 * [🔰 In-Dex Sale](README.md)
 * [♻ Protocol DeFi](the-company/protocol-defi.md)
-* [📊 Launchpads](the-company/launchpads.md)
+* [📊 Launchpads](the-company/page-1.md)
 
 ## ECOSSYSTEM
 
