@@ -1,15 +1,5 @@
 # Page 1
 
-## What is a In-Dex Sale!
-
-In-Dex Sale is one the first of its kind multichain launchpad. Founded by 4 of friends, In-Dex Sale is focused on by actively engaging. Creating value for the project and the community.
-
-In-Dex Sale introduces the In-Dex Sale token which as the more important of launchpad which will be required to governance, and allocations in projects swap fee, farms, pools, bridge multichain fees, card nft game.
-
-The project is raising a total of $500,000 in a PinkSale round from thought strategic partners, the majority of which will be used for rise In-Dex liquidity.
-
-The total supply of In-Dex Sale will be 1,000,000,000.
-
 ## About Launchpads!
 
 With the rise as decentralized finance (DeFi), we have also seen a significant rise in new projects looking to launch blockchain-powered products and services. Through launchpads, the blockchain community is able to discover new crypto projects in their early-stages and projects are able to onboard a significant community to support and promote their new venture through an IDO, or initial decentralized offering.
