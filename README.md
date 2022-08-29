@@ -84,8 +84,8 @@ coverY: 0
 
 ## Tokenomics
 
-{% content-ref url="tokenomics/token-idxs.md" %}
-[token-idxs.md](tokenomics/token-idxs.md)
+{% content-ref url="tokenomics/tokenomics.md" %}
+[tokenomics.md](tokenomics/tokenomics.md)
 {% endcontent-ref %}
 
 {% content-ref url="tokenomics/problems.md" %}
