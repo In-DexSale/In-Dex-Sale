@@ -14,6 +14,8 @@ coverY: 0
 | **Partnerships / Giveaways** | **2%**       |
 | **Team Vesting**             | **2%**       |
 | **Company / Rewards**        | **20%**      |
+| **Private Sale**             | **3%**       |
+| **Aidrop**                   | **1%**       |
 
 ****
 
