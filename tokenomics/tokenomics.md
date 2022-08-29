@@ -20,6 +20,8 @@ coverY: 0
 
 :thumbsup:We chose pinksale because it is the largest decentralized platform in the world and has strict KYC, SAFU and Audit procedures. Moreover, with pinksale we will be able to reach a huge range of investors.
 
+<figure><img src="../.gitbook/assets/tokenomics.jfif" alt=""><figcaption></figcaption></figure>
+
 ## **More Token info**
 
 * Hit Maximum Value to Token

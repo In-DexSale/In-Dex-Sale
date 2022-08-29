@@ -6,6 +6,12 @@
 * [♻ Protocol DeFi](the-company/protocol-defi.md)
 * [📊 Launchpads](the-company/page-1.md)
 
+## About IDXS
+
+* [About](about-idxs/about.md)
+* [0⃣ No fees](about-idxs/no-fees.md)
+* [Safu Contract](about-idxs/safu-contract.md)
+
 ## ECOSSYSTEM
 
 * [❇ Swap Exchange](ecossystem/swap-exchange.md)
