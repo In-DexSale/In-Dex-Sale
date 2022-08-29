@@ -10,7 +10,8 @@
 
 * [About](about-idxs/about.md)
 * [0⃣ No fees](about-idxs/no-fees.md)
-* [Safu Contract](about-idxs/safu-contract.md)
+* [🛡 Safu Contract](about-idxs/safu-contract.md)
+* [Why Static?](about-idxs/why-static.md)
 
 ## ECOSSYSTEM
 
