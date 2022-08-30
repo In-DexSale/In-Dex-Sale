@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/b0a550a0-5c28-4919-9036-408fb7701384.jfif
+cover: broken-reference
 coverY: 0
 ---
 
