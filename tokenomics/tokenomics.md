@@ -19,7 +19,7 @@ coverY: 0
 | **Aidrop**                   | **1%**       |
 | **Unlocked**                 | **0.00007%** |
 
-:thumbsup:We chose pinksale because it is the largest decentralized platform in the world and has strict KYC, SAFU and Audit procedures. Moreover, with pinksale we will be able to reach a huge range of investors.
+:thumbsup:We chose pinksale because it is the largest decentralized platform in the world and has strict KYC, SAFU and Audit procedures. Also, with pinksale we will be able to reach a huge range of investors.
 
 ## **More Token info**
 
