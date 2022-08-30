@@ -1,5 +1,5 @@
 ---
-cover: broken-reference
+cover: ../.gitbook/assets/fundo.jpg
 coverY: 0
 ---
 
