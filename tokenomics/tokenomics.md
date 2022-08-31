@@ -11,7 +11,7 @@ coverY: 0
 | ---------------------------- | ------------ |
 | **Presale**                  | **39.49%**   |
 | **Liquidity**                | **22.5093%** |
-| **Platform Auto Statking**   | **10%**      |
+| **Platform Auto Staking**    | **10%**      |
 | **Partnerships / Giveaways** | **2%**       |
 | **Team Vesting**             | **2%**       |
 | **Company / Rewards**        | **20%**      |
