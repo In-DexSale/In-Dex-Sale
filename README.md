@@ -97,8 +97,8 @@ coverY: 0
 [roadmap.md](tokenomics/roadmap.md)
 {% endcontent-ref %}
 
-{% content-ref url="tokenomics/team.md" %}
-[team.md](tokenomics/team.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 ## SAFU / KYC / AUDIT&#x20;

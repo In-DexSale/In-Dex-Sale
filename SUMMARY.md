@@ -31,7 +31,6 @@
 
 * [💰 Token IDXS](tokenomics/tokenomics.md)
 * [🚀 Roadmap](tokenomics/roadmap.md)
-* [♻ Team](tokenomics/team.md)
 
 ***
 
