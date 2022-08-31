@@ -26,7 +26,7 @@ coverY: 0
 * Hit Maximum Value to Token
 * Build ecossystem based in partnerships to token&#x20;
 * Staking to earn more In-Dex Sale token&#x20;
-* Staking to participate in lanchpad
+* Staking to participate in launchpad
 * Burning to mint a Stablecoin
 
 ****
