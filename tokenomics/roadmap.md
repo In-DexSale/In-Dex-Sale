@@ -36,7 +36,7 @@ coverY: 0
 * Expand Marketing&#x20;
 * Launchpad
 
-**Q2 2023**
+**Q2/2023**
 
 * &#x20;Stablecoin&#x20;
 * Whitepaper update&#x20;
