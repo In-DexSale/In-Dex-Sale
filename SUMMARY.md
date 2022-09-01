@@ -34,7 +34,7 @@
 
 ***
 
-* [🛍 Fairlaunch PinkSale](https://www.pinksale.finance/?chain=BSC)
+* [🛍 Fairlaunch PinkSale](https://www.pinksale.finance/launchpad/0x1907c2fc23616B0aCA9A9836ff7852b4E746274F?chain=BSC)
 
 ## SAFU / KYC / AUDIT
 

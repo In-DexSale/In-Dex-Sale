@@ -5,4 +5,4 @@ coverY: 0
 
 # 🕵♀ SAFU Certificate
 
-{% embed url="https://github.com/ContractChecker/SAFU/blob/main/Readfi_Token_0xf29CCcC3460506e8F9bc038D4716C05b76b0441e_SAFU_Certificate_By_ContractChecker.pdf" %}
+{% embed url="https://github.com/ContractChecker/SAFU/blob/main/In-DexSale_Token_0xCaB9575F4BF9a846a58fCBe1A96AF3e4Bd770366_SAFU_Certificate_By_ContractChecker.pdf" %}
