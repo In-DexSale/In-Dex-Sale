@@ -5,4 +5,4 @@ coverY: 0
 
 # 🕵♀ KYC Certificate
 
-Comming soon...
+{% embed url="https://github.com/solidproof/projects/tree/main/In-Dex" %}
