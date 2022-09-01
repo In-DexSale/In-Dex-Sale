@@ -7,17 +7,15 @@ coverY: 0
 
 ## **Token Allocation**
 
-| Descrition                   |              |
-| ---------------------------- | ------------ |
-| **Presale**                  | **39.49%**   |
-| **Liquidity**                | **22.5093%** |
-| **Platform Auto Staking**    | **10%**      |
-| **Partnerships / Giveaways** | **2%**       |
-| **Team Vesting**             | **2%**       |
-| **Company / Rewards**        | **20%**      |
-| **Private Sale**             | **3%**       |
-| **Aidrop**                   | **1%**       |
-| **Unlocked**                 | **0.00007%** |
+| Descrition                     |            |
+| ------------------------------ | ---------- |
+| **Presale**                    | **32%**    |
+| **Liquidity**                  | **18.24%** |
+| **Staking Platform/ Treasury** | **30%**    |
+| **Ecosytem / Business**        | **5%**     |
+| **Team /Advisors**             | **5%**     |
+| **CEX Listing**                | **8%**     |
+| **Aidrop and Competition**     | **1.76%**  |
 
 :thumbsup:We chose pinksale because it is the largest decentralized platform in the world and has strict KYC, SAFU and Audit procedures. Also, with pinksale we will be able to reach a huge range of investors.
 
