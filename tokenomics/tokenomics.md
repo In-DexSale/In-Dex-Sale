@@ -7,6 +7,14 @@ coverY: 0
 
 ## **Token Allocation**
 
+**Project Name: In-Dex Sale**
+
+**Symbol: IDXS**
+
+**Blockchain:** **BEP20**
+
+{% embed url="https://bscscan.com/token/0xcab9575f4bf9a846a58fcbe1a96af3e4bd770366" %}
+
 | Descrition                     |            |
 | ------------------------------ | ---------- |
 | **Presale**                    | **32%**    |
