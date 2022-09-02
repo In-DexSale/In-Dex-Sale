@@ -17,7 +17,7 @@ coverY: 0
 * AUDIT, KYC, SAFU on Pinksale&#x20;
 * Fair launch on Pinksale&#x20;
 * CMC and Coingeko Listing&#x20;
-* AMA on best telegrans groups&#x20;
+* AMA on best telegram groups&#x20;
 * Marketing on Twitter&#x20;
 * PancakeSwap listing
 
